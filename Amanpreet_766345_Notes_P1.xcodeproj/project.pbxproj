@@ -13,6 +13,7 @@
 		9BAE4ECB2374996B00F20F7B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BAE4EC92374996B00F20F7B /* Main.storyboard */; };
 		9BAE4ECD2374996C00F20F7B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9BAE4ECC2374996C00F20F7B /* Assets.xcassets */; };
 		9BAE4ED02374996C00F20F7B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BAE4ECE2374996C00F20F7B /* LaunchScreen.storyboard */; };
+		9BAE4ED82374AC1F00F20F7B /* folder.png in Resources */ = {isa = PBXBuildFile; fileRef = 9BAE4ED72374AC1E00F20F7B /* folder.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9BAE4ECC2374996C00F20F7B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9BAE4ECF2374996C00F20F7B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9BAE4ED12374996C00F20F7B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9BAE4ED72374AC1E00F20F7B /* folder.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = folder.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		9BAE4EC22374996B00F20F7B /* Amanpreet_766345_Notes_P1 */ = {
 			isa = PBXGroup;
 			children = (
+				9BAE4ED72374AC1E00F20F7B /* folder.png */,
 				9BAE4EC32374996B00F20F7B /* AppDelegate.swift */,
 				9BAE4EC52374996B00F20F7B /* SceneDelegate.swift */,
 				9BAE4EC72374996B00F20F7B /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9BAE4ED02374996C00F20F7B /* LaunchScreen.storyboard in Resources */,
+				9BAE4ED82374AC1F00F20F7B /* folder.png in Resources */,
 				9BAE4ECD2374996C00F20F7B /* Assets.xcassets in Resources */,
 				9BAE4ECB2374996B00F20F7B /* Main.storyboard in Resources */,
 			);
